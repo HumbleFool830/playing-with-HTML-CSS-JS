@@ -1,0 +1,35 @@
+.subscribe {
+  background-color: #c80000;
+  color:white;
+  border:none;
+  height: 37px;
+  width: 100px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right:10px;
+  
+}
+.join{
+  background-color:white ;
+  border-color:#00fbff;
+  border-style:solid;
+  border-width: 1px;
+  color:#00fbff;
+  height: 37px;
+  width: 60px;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right:10px;
+  
+}
+.tweet{
+  background-color:#00b3ff ;
+  border-style:solid;
+  color:#ffffff;
+  border:none;
+  height: 30px;
+  width: 70px;
+  border-radius: 10px;
+  cursor: pointe
+  
+}
