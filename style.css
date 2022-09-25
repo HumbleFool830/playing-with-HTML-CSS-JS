@@ -6,7 +6,10 @@
   width: 100px;
   border-radius: 3px;
   cursor: pointer;
-  margin-right:10px;
+  margin-right:15px;
+  margin-top:20px ;
+  margin-bottom: 15px;
+  margin-left:15px;
   
 }
 .join{
@@ -19,7 +22,8 @@
   width: 60px;
   border-radius: 3px;
   cursor: pointer;
-  margin-right:10px;
+  font-weight:bold;
+  margin-right:15px;
   
 }
 .tweet{
@@ -27,9 +31,32 @@
   border-style:solid;
   color:#ffffff;
   border:none;
-  height: 30px;
-  width: 70px;
-  border-radius: 10px;
-  cursor: pointe
+  height: 32px;
+  width: 74px;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size:15px;
+  cursor: pointer;
+  margin-right:15px;
+  
+}
+.uber{
+  background-color: black;
+  color:white;
+  height:35px;
+  width:110px;
+
+}
+.cart{
+  background-color:#ffea00;
+  color:black;
+  border:none;
+  height:36px;
+  width:125px;
+  border-radius: 25px;
+  font-weight:bold;
+  font-size: 16px;
+  margin-left:15px;
+  cursor:pointer;
   
 }
